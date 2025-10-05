@@ -1,0 +1,32 @@
+/hrd_web
+│
+├── koneksi.php
+├── index.php           → dashboard
+├── login.php
+├── logout.php
+│
+├── karyawan/
+│   ├── tambah.php
+│   ├── edit.php
+│   ├── hapus.php
+│   └── list.php
+│
+├── absensi/
+│   ├── input.php
+│   ├── list.php
+│   └── laporan.php
+│
+├── cuti/
+│   ├── ajukan.php
+│   ├── daftar.php
+│   └── validasi.php
+│
+├── gaji/
+│   ├── input.php
+│   ├── slip.php
+│   └── daftar.php
+│
+└── assets/
+    ├── css/
+    ├── js/
+    └── images/
