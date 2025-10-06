@@ -20,7 +20,7 @@ if (!$result) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Karyawan Responsif</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="tambah/index.css">
+    <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
     <div class="container">
